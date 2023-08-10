@@ -37,7 +37,7 @@ scene.add( light )
 
 
 
-var vel = 4;
+var vel = 9;
 
 var state = {
   u: [0,0,.2,vel,0,0]
